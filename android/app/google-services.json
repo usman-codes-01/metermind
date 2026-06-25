@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077084238541",
+    "project_id": "metermind-f26fb",
+    "storage_bucket": "metermind-f26fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077084238541:android:ae73a8f93c5868097b6f84",
+        "android_client_info": {
+          "package_name": "com.example.metermind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv34UV17hme6GY37AhzLqhQg8qRtpsb0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
